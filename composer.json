@@ -1,0 +1,10 @@
+{
+    "name": "tuisongbao/php-sdk",
+    "type": "library",
+    "description": "new tuisongbao restful api SDK",
+    "homepage": "https://github.com/celinehui/php-sdk",
+    "license": "Apache",
+    "require": {
+        "php": ">=5.2.0"
+    }
+}
