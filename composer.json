@@ -1,8 +1,8 @@
 {
-    "name": "tuisongbao/php-sdk",
+    "name": "celine/test-pro",
     "type": "library",
-    "description": "new tuisongbao restful api SDK",
-    "homepage": "https://github.com/celinehui/php-sdk",
+    "description": "add to package list",
+    "homepage": "https://github.com/celinehui/test-pro",
     "license": "Apache",
     "require": {
         "php": ">=5.2.0"
